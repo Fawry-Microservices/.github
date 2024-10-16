@@ -6,8 +6,8 @@ The Fawry Microservices Application is a collection of services designed to hand
 
 - **Bank API**: Add account, create transaction, login, view balance.
 - **Coupon API**: Create, consume, and view coupons and usage history.
-- **Order API**: Manage products, including creation, updates, searches and sends notifications.
-- **Product API**: (Details to be defined) Manages product details and information.
+- **Order API**: Create orders, manage stock, handle payments, send notifications.
+- **Product API**: Manage products, including creation, updates, and searches.
 - **Store API**: Create stores, search products, add and consume stock.
 - **Notification API**: Listen for orders, send notifications, retry failed ones.
 - **User API**: Manage admin users, view users list.
