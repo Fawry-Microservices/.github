@@ -11,7 +11,7 @@ The Fawry Microservices Application is a collection of services designed to hand
 - **Store API**: Create stores, search products, add and consume stock.
 - **Notification API**: Listen for orders, send notifications, retry failed ones.
 - **User API**: Manage admin users, view users list.
-- **API-Getway**: It acts as a centralized entry point for managing and routing requests from clients to the appropriate backend services.
+- **API-Gateway**: It acts as a centralized entry point for managing and routing requests from clients to the appropriate backend services.
 
 ## License
 
